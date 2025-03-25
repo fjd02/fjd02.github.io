@@ -5,7 +5,7 @@ categories: [homelab]
 tags: [info]
 ---
 
-# Introducción
+# Introduction
 Hello and welcome, everyone! In this blog I will be uploading my personal projects as well as solutions for some pentesting VMs.
 
 I hope to make the tutorials as simple and easy as to understand as possible.
