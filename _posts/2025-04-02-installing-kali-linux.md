@@ -2,7 +2,7 @@
 title: Installing Kali Linux
 date: 2025-04-02
 categories: [tutorial]
-tags: [kali, linux]
+tags: [kali-linux]
 ---
 
 In this first tutorial we're gonna be installing Kali Linux! In cybersecurity and pentesting it's recommended to have some VMs (*Virtual Machines*) to use as labs, so we can perform certain actions without compromising our own personal PC.
